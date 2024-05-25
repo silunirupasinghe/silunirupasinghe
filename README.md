@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Siluni Rupasinghe</h1>
+<h1 align="center">Hey. I'm Siluni Rupasinghe</h1>
 <h3 align="center">A passionate software developer from Sri Lanka</h3>
 
-- 🌱 I’m currently learning **Mern, Kotlin**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **silunirupasinghe@gmail.com**
 
